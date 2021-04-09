@@ -6,3 +6,4 @@
 - https://github.com/NotSoSecure/android_application_analyzer
 - https://github.com/skylot/jadx
 - https://blog.netspi.com/four-ways-bypass-android-ssl-verification-certificate-pinning/
+- https://github.com/MobSF/Mobile-Security-Framework-MobSF
