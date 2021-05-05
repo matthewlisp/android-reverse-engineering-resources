@@ -21,6 +21,9 @@
 - https://gchq.github.io/CyberChef/
 - Clojure REPL + https://github.com/funcool/buddy
 
+**Root physycal android device**
+- Search device model here: https://forum.xda-developers.com/
+
 # Notes
 ## Signing a jar
 https://stackoverflow.com/questions/31911149/adb-install-parse-failed-unexpected-exception
