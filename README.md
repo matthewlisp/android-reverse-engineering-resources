@@ -1,12 +1,25 @@
 # android-reverse-engineering-resources
 
+# Tools
+
+**Open source apk decompiler**
+- https://github.com/skylot/jadx
+
+**Paid apk decompiler with debugger**
+- https://www.pnfsoftware.com/jeb/
+
+**Tools i want to test**
 - https://codeshare.frida.re/
   - https://infosecwriteups.com/hail-frida-the-universal-ssl-pinning-bypass-for-android-e9e1d733d29 
-- https://www.pnfsoftware.com/jeb/
 - https://github.com/NotSoSecure/android_application_analyzer
-- https://github.com/skylot/jadx
-- https://blog.netspi.com/four-ways-bypass-android-ssl-verification-certificate-pinning/
 - https://github.com/MobSF/Mobile-Security-Framework-MobSF
+
+**Bypassing android ssl pinning**
+- https://blog.netspi.com/four-ways-bypass-android-ssl-verification-certificate-pinning/
+
+**Data transformation/crypto stuff**
+- https://gchq.github.io/CyberChef/
+- Clojure REPL + https://github.com/funcool/buddy
 
 # Notes
 ## Signing a jar
